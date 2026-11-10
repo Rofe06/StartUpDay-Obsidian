@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"5891f3614e765316","type":"text","text":"Sur la solution :","x":-640,"y":-340,"width":250,"height":60,"color":"1"},
+		{"id":"d77de0c5e26408bf","type":"text","text":"Sur la valeur :","x":600,"y":-340,"width":250,"height":60,"color":"1"},
+		{"id":"e2413d658daa7007","type":"text","text":"Votre solution répond-elle directement au problème ? ","x":-640,"y":-200,"width":250,"height":71,"color":"2"},
+		{"id":"41ef3dc2c172351d","type":"text","text":"Quelle partie de votre offre apporte réellement de la valeur ? ","x":-1040,"y":-345,"width":300,"height":71,"color":"2"},
+		{"id":"753cb8edce99f643","type":"text","text":"Sur le problème : ","x":-25,"y":-164,"width":250,"height":60,"color":"1"},
+		{"id":"bc4320684959c1b1","type":"text","text":"Quel bénéfice concret apporte-t-elle ? ","x":600,"y":-200,"width":250,"height":71,"color":"2"},
+		{"id":"2cdf7170cb196002","type":"text","text":"Pourquoi quelqu'un choisirait-il votre solution ? ","x":940,"y":-345,"width":271,"height":71,"color":"2"},
+		{"id":"dd69f3052522786d","type":"text","text":"Qu'est ce qui vous prouve que ce problème existe ?","x":-300,"y":-60,"width":250,"height":60,"color":"2"},
+		{"id":"0302063b2b9a141d","type":"text","text":"Que fait votre client aujourd'hui sans vous ?","x":240,"y":-60,"width":250,"height":60,"color":"2"},
+		{"id":"dce76b345731ffb0","type":"text","text":"Est ce un problème suffisamment important pour que quelqu'un cherche une solution ? ","x":-25,"y":20,"width":250,"height":120,"color":"2"},
+		{"id":"06b3cea52978af0f","type":"text","text":"# **Start Up Day Atelier 1 - Clarification du Projet - Trip Manager ✈️**\n\n**==🟠Quelques questions importantes pour creuser le projet==**","x":-321,"y":-430,"width":843,"height":120,"color":"5"}
+	],
+	"edges":[
+		{"id":"75f640273042334e","fromNode":"5891f3614e765316","fromSide":"left","toNode":"41ef3dc2c172351d","toSide":"right"},
+		{"id":"69dabbea823d609c","fromNode":"5891f3614e765316","fromSide":"bottom","toNode":"e2413d658daa7007","toSide":"top"},
+		{"id":"327520621ca78599","fromNode":"d77de0c5e26408bf","fromSide":"bottom","toNode":"bc4320684959c1b1","toSide":"top"},
+		{"id":"af998b8be851ba6c","fromNode":"d77de0c5e26408bf","fromSide":"right","toNode":"2cdf7170cb196002","toSide":"left"},
+		{"id":"c21ed86c846f51cb","fromNode":"753cb8edce99f643","fromSide":"left","toNode":"dd69f3052522786d","toSide":"top"},
+		{"id":"bcdf38c1869bb81f","fromNode":"753cb8edce99f643","fromSide":"right","toNode":"0302063b2b9a141d","toSide":"top"},
+		{"id":"cf8a35716eee6a3f","fromNode":"753cb8edce99f643","fromSide":"bottom","toNode":"dce76b345731ffb0","toSide":"top"},
+		{"id":"8213de32fddbf5e3","fromNode":"06b3cea52978af0f","fromSide":"left","toNode":"5891f3614e765316","toSide":"top"},
+		{"id":"90cfbed0a8491e9f","fromNode":"06b3cea52978af0f","fromSide":"right","toNode":"d77de0c5e26408bf","toSide":"top"},
+		{"id":"2cd395c170773f45","fromNode":"06b3cea52978af0f","fromSide":"bottom","toNode":"753cb8edce99f643","toSide":"top"}
+	]
+}

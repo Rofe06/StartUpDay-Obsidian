@@ -1,0 +1,3 @@
+##### **==🟢Simplifier l'organisation de voyages en groupe==**
+
+*"==🟡Organiser== un voyage ==🟡à plusieurs== peut rapidement devenir complexe. Les participants n'ont pas toujours les mêmes envies, les mêmes contraintes, les mêmes disponibilités ni le même budget. Les informations sont souvent ==🟡dispersées== entre plusieurs applications et certaines décisions sont ==🟡difficiles== à prendre collectivement."*

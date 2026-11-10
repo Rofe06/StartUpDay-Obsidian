@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"4c188636dff044a0","x":260,"y":-1300,"width":2120,"height":1280,"color":"#ff0000","type":"group","label":"Business Model Canvas"},
+		{"id":"4c295dded2b8ba17","type":"group","x":-1380,"y":-1000,"width":1469,"height":460,"color":"#00ff96","label":"Partie 1"},
+		{"id":"1c66682ba9af89ed","type":"group","x":-1380,"y":-480,"width":1469,"height":460,"color":"#00ff96","label":"Partie 2"},
+		{"id":"9d36111293a66898","type":"text","text":"# **Start Up Day Atelier 3 - Construire le buisness Model - Trip Manager ✈️**\n\n**==🟠Quelques questions importantes pour creuser le projet==**","x":-1380,"y":-1200,"width":1021,"height":120,"color":"5"},
+		{"id":"9380232275d62f6a","type":"file","file":"EIP - Start Up Day/Atelier 3/⚙️ Atelier 3 - Relations Clients.md","x":-1360,"y":-960,"width":400,"height":400},
+		{"id":"37906622a57d4be6","type":"file","file":"EIP - Start Up Day/Atelier 3/⚙️ Atelier 3 - Revenus.md","x":-850,"y":-960,"width":400,"height":400},
+		{"id":"de7048b03bee0c0a","type":"file","file":"EIP - Start Up Day/Atelier 3/⚙️ Atelier 3 - Activités Clés.md","x":-331,"y":-960,"width":400,"height":400},
+		{"id":"550f09ed6d3f5f76","type":"file","file":"EIP - Start Up Day/Atelier 3/⚙️ Atelier 3 - Ressources Clés.md","x":-1360,"y":-440,"width":400,"height":400},
+		{"id":"68e876ff25e28f57","type":"file","file":"EIP - Start Up Day/Atelier 3/⚙️ Atelier 3 - Partenaires.md","x":-850,"y":-440,"width":400,"height":400},
+		{"id":"a2f4589563b28587","type":"file","file":"EIP - Start Up Day/Atelier 3/⚙️ Atelier 3 - Coûts.md","x":-331,"y":-440,"width":400,"height":400},
+		{"id":"d2170241444b4ad4","x":280,"y":-1280,"width":400,"height":820,"type":"text","text":"# Partenaire"},
+		{"id":"684dc2586c14fb6d","type":"text","text":"# Structure de Coûts","x":280,"y":-440,"width":1020,"height":400},
+		{"id":"eeef254c8b392655","type":"text","text":"# Activités Clés","x":700,"y":-1280,"width":400,"height":400},
+		{"id":"d146144927b5e755","type":"text","text":"# Ressources Clés","x":700,"y":-860,"width":400,"height":400},
+		{"id":"7b178b395fe82c71","type":"text","text":"# Proposition de Valeur","x":1120,"y":-1280,"width":400,"height":820},
+		{"id":"95b7779eb1987413","type":"text","text":"# Sources Revenus","x":1340,"y":-440,"width":1020,"height":400},
+		{"id":"e789dcf468d29189","type":"text","text":"# Relation Client","x":1540,"y":-1280,"width":400,"height":400},
+		{"id":"8e69c25f8a86cef6","type":"text","text":"# Distribution","x":1540,"y":-860,"width":400,"height":400},
+		{"id":"bb54fb655e353b61","type":"text","text":"# Segments de Marché","x":1960,"y":-1280,"width":400,"height":820}
+	],
+	"edges":[
+		{"id":"620a946da6381bf0","fromNode":"9d36111293a66898","fromSide":"left","toNode":"4c295dded2b8ba17","toSide":"left"},
+		{"id":"01b4bd9520d7cc8e","fromNode":"9d36111293a66898","fromSide":"left","toNode":"1c66682ba9af89ed","toSide":"left"},
+		{"id":"a7e02055c390aec1","fromNode":"4c295dded2b8ba17","fromSide":"right","toNode":"4c188636dff044a0","toSide":"left"},
+		{"id":"fb7d39f800a04e8c","fromNode":"1c66682ba9af89ed","fromSide":"right","toNode":"4c188636dff044a0","toSide":"left"}
+	]
+}
