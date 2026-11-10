@@ -14,7 +14,7 @@
 		{"id":"cb16a477fb8ca015","type":"text","text":"Quelle est la chose que le jury doit retenir de votre pitch ?","x":320,"y":-371,"width":250,"height":87,"color":"2"},
 		{"id":"596a65977377a98a","type":"text","text":"Utilisez-vous des termes que votre audience ne comprendra pas ?","x":680,"y":-593,"width":330,"height":63,"color":"2"},
 		{"id":"708740c92794f965","type":"text","text":"Comprend-on comment l'entreprise génère des revenus ?","x":-815,"y":-373,"width":250,"height":90,"color":"2"},
-		{"id":"4e0292dfe105fae3","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 5/Le Pitch ✉️.md","x":-508,"y":-100,"width":766,"height":540,"color":"3"}
+		{"id":"4e0292dfe105fae3","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 5/Le Pitch ✉️.md","x":-508,"y":-140,"width":766,"height":560,"color":"3"}
 	],
 	"edges":[
 		{"id":"ee36deb64ed629f6","fromNode":"e6d862dc06b748db","fromSide":"top","toNode":"c46911ef04c5851e","toSide":"right"},

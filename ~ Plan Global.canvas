@@ -17,7 +17,8 @@
 		{"id":"415c0050e8451398","type":"text","text":"Comment vous différencier des outils déjà utilisés ? ","x":-790,"y":-1390,"width":250,"height":95,"color":"1"},
 		{"id":"37cc51a93ebf50ff","type":"text","text":"Quelles fonctionnalités sont réellement insdispensables ? ","x":-1110,"y":-1391,"width":250,"height":91,"color":"1"},
 		{"id":"44b74bfe99568097","type":"text","text":"Questions à se poser ","x":-1348,"y":-1660,"width":223,"height":60,"color":"2"},
-		{"id":"9faa9bfbf8bef555","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 5/Construire un Pitch.canvas","x":-600,"y":-2185,"width":580,"height":200}
+		{"id":"9faa9bfbf8bef555","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 5/Construire un Pitch.canvas","x":-600,"y":-2185,"width":580,"height":200},
+		{"id":"127ed8174c08a30a","x":-2285,"y":-2485,"width":640,"height":600,"color":"3","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 5/Le Pitch ✉️.md"}
 	],
 	"edges":[
 		{"id":"8ac6e0b5c45efc9d","fromNode":"44b74bfe99568097","fromSide":"bottom","toNode":"37cc51a93ebf50ff","toSide":"top"},
@@ -28,6 +29,7 @@
 		{"id":"6b89d4a5e3544e2d","fromNode":"44b74bfe99568097","fromSide":"bottom","toNode":"8942cc2b7e34fdca","toSide":"top"},
 		{"id":"e1674a0da98a981b","fromNode":"e6cf3fdc8b055ecf","fromSide":"bottom","toNode":"87c8f524cd7fc377","toSide":"left"},
 		{"id":"e864065bc6f03852","fromNode":"87c8f524cd7fc377","fromSide":"right","toNode":"bd89cd3a6ab30923","toSide":"left"},
-		{"id":"939627472a801a76","fromNode":"e6cf3fdc8b055ecf","fromSide":"bottom","toNode":"44b74bfe99568097","toSide":"top"}
+		{"id":"939627472a801a76","fromNode":"e6cf3fdc8b055ecf","fromSide":"bottom","toNode":"44b74bfe99568097","toSide":"top"},
+		{"id":"5baa2947afa08790","fromNode":"e6cf3fdc8b055ecf","fromSide":"left","toNode":"127ed8174c08a30a","toSide":"right"}
 	]
 }
