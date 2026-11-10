@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"6a4a34bcf885a0e7","type":"group","x":1020,"y":-1360,"width":1672,"height":1076,"color":"3","label":"🧑 Persona Type"},
 		{"id":"95bb17513112bb7e","type":"text","text":"# Start Up Day Atelier 2 - Cible de Clientèle - Trip Manager ✈️\n\n**==🟠Quelques questions importantes pour creuser le projet==**","x":-600,"y":-1200,"width":780,"height":100,"color":"5"},
-		{"id":"b1dcc85f7f754e24","type":"file","file":"EIP - Start Up Day/Atelier 2/⚙️ Atelier 2 - Segmentation.md","x":-130,"y":-1020,"width":400,"height":400,"color":"#0000ff"},
-		{"id":"25b38ef7a164cd50","type":"file","file":"EIP - Start Up Day/Atelier 2/⚙️ Atelier 2 - Comportement.md","x":-700,"y":-1020,"width":400,"height":400,"color":"#0000ff"},
-		{"id":"63cce3276c9ff1de","type":"file","file":"EIP - Start Up Day/Atelier 2/⚙️ Atelier 2 - Persona.md","x":440,"y":-1020,"width":400,"height":400,"color":"#0000ff"},
+		{"id":"b1dcc85f7f754e24","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 2/Segmentation.md","x":-130,"y":-1020,"width":400,"height":400,"color":"#0000ff"},
+		{"id":"25b38ef7a164cd50","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 2/Comportement.md","x":-700,"y":-1020,"width":400,"height":400,"color":"#0000ff"},
+		{"id":"63cce3276c9ff1de","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 2/Persona.md","x":440,"y":-1020,"width":400,"height":400,"color":"#0000ff"},
 		{"id":"04c3958baa5400ef","type":"file","file":"EIP - Start Up Day/Images & Icons/Persona Icon.png","x":1040,"y":-1340,"width":216,"height":216},
 		{"id":"a858593a4c126fd0","type":"text","text":"- Name : Charles\n- Age : 22\n- Situation : Seul\n- Métier : Charpentier\n- Motivation : Partir en vacances à plusieurs (groupe)\n- Frein/Frustration : Centraliser les informations\n- Canaux d'information : Insta","x":1296,"y":-1340,"width":540,"height":216},
 		{"id":"869fe611886c691a","type":"text","text":"- Name : Pauline\n- Age : 21 ans\n- Situation : Seul\n- Métier : Etudiante\n- Motivation : Partir en vacances à plusieurs (groupe)\n- Frein/Frustration : Trop d'envie / Manque d'argent\n- Canaux d'information : Influenceurs","x":1752,"y":-540,"width":540,"height":216},

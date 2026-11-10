@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"a19441133662d851","type":"text","text":"### Le Fond 🎨","x":-680,"y":-540,"width":250,"height":60,"color":"4"},
+		{"id":"e6d862dc06b748db","type":"text","text":"### La Forme 🗣️","x":180,"y":-540,"width":250,"height":60,"color":"1"},
+		{"id":"6e12d482fb4d0603","type":"text","text":"# ⚙️ Atelier 5 - Construire un Pitch\n\nPitcher ne signifie pas réciter votre BMC. Il faut que votre message soit ==🟡concis==, ==🟡clair== et ==🟡convaincant== : choisissez ce qui mérite d'être raconté en 3 minutes max.\n\nStructure :\n1. L'identification du problème / besoin, enrobé de storytelling.\n2. Pour qui : vos clients.\n3. La solution : ce que vous proposez.\n4. Pourquoi cette solution est intéressante : votre proposition de valeur.\n5. Modèle économique : comment vous touchez vos clients et comment vous gagnez de l'argent.\n6. Conclusion avec un [call to action](https://www.google.com/search?client=opera&q=call+to+action&sourceid=opera&ie=UTF-8&oe=UTF-8)","x":-360,"y":-740,"width":470,"height":460,"color":"6"}
+	],
+	"edges":[]
+}
