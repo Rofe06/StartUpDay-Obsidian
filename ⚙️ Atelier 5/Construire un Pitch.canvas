@@ -1,14 +1,38 @@
 {
 	"nodes":[
-		{"id":"a19441133662d851","type":"text","text":"### Le Fond 🎨","x":-680,"y":-540,"width":250,"height":60,"color":"4"},
-		{"id":"e6d862dc06b748db","type":"text","text":"### La Forme 🗣️","x":180,"y":-540,"width":250,"height":60,"color":"1"},
+		{"id":"a19441133662d851","type":"text","text":"### Le Fond 🗣️","x":-780,"y":-540,"width":250,"height":60,"color":"1"},
+		{"id":"e6d862dc06b748db","type":"text","text":"### La Forme 🎨","x":280,"y":-540,"width":250,"height":60,"color":"4"},
 		{"id":"6e12d482fb4d0603","type":"text","text":"# ⚙️ Atelier 5 - Construire un Pitch\n\nPitcher ne signifie pas réciter votre BMC. Il faut que votre message soit ==🟡concis==, ==🟡clair== et ==🟡convaincant== : choisissez ce qui mérite d'être raconté en ==🟡3 minutes== max.\n\nStructure :\n1. L'identification du problème / besoin, enrobé de storytelling.\n2. Pour qui : vos clients.\n3. La solution : ce que vous proposez.\n4. Pourquoi cette solution est intéressante : votre proposition de valeur.\n5. Modèle économique : comment vous touchez vos clients et comment vous gagnez de l'argent.\n6. Conclusion avec un [call to action](https://www.google.com/search?client=opera&q=call+to+action&sourceid=opera&ie=UTF-8&oe=UTF-8)","x":-360,"y":-640,"width":470,"height":460,"color":"6"},
-		{"id":"c46911ef04c5851e","type":"file","file":"EIP - Start Up Day/Proposition de mise en valeur 🌟.md","x":-537,"y":-960,"width":825,"height":200,"color":"2"}
+		{"id":"c46911ef04c5851e","type":"file","file":"EIP - Start Up Day/Proposition de mise en valeur 🌟.md","x":-537,"y":-960,"width":825,"height":200,"color":"5"},
+		{"id":"4c717c4e83fac3e4","type":"text","text":"Comprend-on le problème dès le départ ?","x":-940,"y":-680,"width":250,"height":60,"color":"2"},
+		{"id":"fe7cc84754b121f6","type":"text","text":"La proposition de valeur est-elle évidente ?","x":-1140,"y":-600,"width":250,"height":60,"color":"2"},
+		{"id":"56004f92cfe66082","type":"text","text":"Sait-on immédiatement pour qui est l'offre ?","x":-1160,"y":-500,"width":250,"height":60,"color":"2"},
+		{"id":"a2642a12344b763f","type":"text","text":"L'avantage est-il clair ?","x":-1085,"y":-410,"width":250,"height":50,"color":"2"},
+		{"id":"8be9644f8cbc4ec1","type":"text","text":"Quelles informations pourraient être supprimées ? ","x":480,"y":-687,"width":270,"height":67,"color":"2"},
+		{"id":"77bc0466d62bfb91","type":"text","text":"Votre accroche donne-t-elle envie d'écouter la suite ?","x":640,"y":-500,"width":330,"height":63,"color":"2"},
+		{"id":"b1ab9236caf0f425","type":"text","text":"Votre conclusion apporte-t-elle quelque chose ?","x":585,"y":-411,"width":330,"height":63,"color":"2"},
+		{"id":"cb16a477fb8ca015","type":"text","text":"Quelle est la chose que le jury doit retenir de votre pitch ?","x":320,"y":-371,"width":250,"height":87,"color":"2"},
+		{"id":"596a65977377a98a","type":"text","text":"Utilisez-vous des termes que votre audience ne comprendra pas ?","x":680,"y":-593,"width":330,"height":63,"color":"2"},
+		{"id":"708740c92794f965","type":"text","text":"Comprend-on comment l'entreprise génère des revenus ?","x":-815,"y":-373,"width":250,"height":90,"color":"2"},
+		{"id":"4e0292dfe105fae3","type":"file","file":"EIP - Start Up Day/⚙️ Atelier 5/Le Pitch ✉️.md","x":-508,"y":-100,"width":766,"height":540,"color":"3"}
 	],
 	"edges":[
 		{"id":"ee36deb64ed629f6","fromNode":"e6d862dc06b748db","fromSide":"top","toNode":"c46911ef04c5851e","toSide":"right"},
 		{"id":"af38ddd3714b47ce","fromNode":"a19441133662d851","fromSide":"top","toNode":"c46911ef04c5851e","toSide":"left"},
 		{"id":"ce0e587dd00488a0","fromNode":"6e12d482fb4d0603","fromSide":"top","toNode":"a19441133662d851","toSide":"top"},
-		{"id":"a9621719bd840814","fromNode":"6e12d482fb4d0603","fromSide":"top","toNode":"e6d862dc06b748db","toSide":"top"}
+		{"id":"a9621719bd840814","fromNode":"6e12d482fb4d0603","fromSide":"top","toNode":"e6d862dc06b748db","toSide":"top"},
+		{"id":"6b313b2067be39bf","fromNode":"a19441133662d851","fromSide":"left","toNode":"4c717c4e83fac3e4","toSide":"bottom"},
+		{"id":"82a92886d8d377d0","fromNode":"a19441133662d851","fromSide":"left","toNode":"fe7cc84754b121f6","toSide":"right"},
+		{"id":"93f11d5451cf6e85","fromNode":"a19441133662d851","fromSide":"left","toNode":"56004f92cfe66082","toSide":"right"},
+		{"id":"a6c33a6a138fecb7","fromNode":"a19441133662d851","fromSide":"bottom","toNode":"708740c92794f965","toSide":"top"},
+		{"id":"402c4dcfad013c8c","fromNode":"a19441133662d851","fromSide":"left","toNode":"a2642a12344b763f","toSide":"right"},
+		{"id":"1f8f5d7141b12e8e","fromNode":"e6d862dc06b748db","fromSide":"right","toNode":"8be9644f8cbc4ec1","toSide":"bottom"},
+		{"id":"113588ae18694154","fromNode":"e6d862dc06b748db","fromSide":"right","toNode":"596a65977377a98a","toSide":"left"},
+		{"id":"dcd24e11dfb3c7a4","fromNode":"e6d862dc06b748db","fromSide":"right","toNode":"77bc0466d62bfb91","toSide":"left"},
+		{"id":"fc2432459a5e42fc","fromNode":"e6d862dc06b748db","fromSide":"right","toNode":"b1ab9236caf0f425","toSide":"left"},
+		{"id":"4cf29383e80fb620","fromNode":"e6d862dc06b748db","fromSide":"bottom","toNode":"cb16a477fb8ca015","toSide":"top"},
+		{"id":"9306ec2c5267da14","fromNode":"a19441133662d851","fromSide":"right","toNode":"4e0292dfe105fae3","toSide":"left"},
+		{"id":"8502e7df65cb9320","fromNode":"e6d862dc06b748db","fromSide":"left","toNode":"4e0292dfe105fae3","toSide":"right"},
+		{"id":"8a05e98f5a4f27ce","fromNode":"6e12d482fb4d0603","fromSide":"bottom","toNode":"4e0292dfe105fae3","toSide":"top"}
 	]
 }
